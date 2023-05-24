@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Đặt bàn</title>
+    <link rel="stylesheet" href="StyleDatBan.css">
+</head>
+<body>
+    <header>
+		<a href="TrangChu.html" class="logo"><img src="TGHS.png" height="100px" width="200px"></a>
+		<ul class="menu1">
+			<li><a href="TrangChu.html">Trang chủ</a></li>
+			<li><a href="GioiThieu.html">Giới thiệu</a></li>
+			<li><a href="ThucDon.html">Thực đơn</a></li>
+			<li><a href="DatBan.html">Đặt bàn</a></li>
+			<li><a href="SanPham.html">Sản phẩm tươi sống</a></li>
+			<li>
+				<a>Tin tức &#9663;
+					<ul class="menu2">
+						<li><a href="VHAT.html">Văn hóa ẩm thực</a></li>
+						<li><a href="KhuyenMai.html">Khuyến mãi</a></li>
+					</ul>
+				</a>
+			</li>
+		</ul>
+	</header>
+	<div class="WelDB">Đặt bàn ngay tại Thế Giới Hải Sản</div>
+	<div class="DB">
+		<div class="pg01">
+			LỰA CHỌN NHÀ HÀNG<br><br>
+			<select name="NH" id="NH">
+				<option value="NH1">HN: 18 Trần Kim Xuyến</option>
+				<option value="NH2">HN: 75A Trần Hưng Đạo</option>
+				<option value="NH3">HN: Golden Palace, 99 Mễ Trì</option>
+				<option value="NH4">HN: 60 Vũ Trọng Khánh, Hà Đông</option>
+			</select>
+		</div>
+		<div class="pg02">
+			NGÀY<br><br>
+		</div>
+		<div class="pg03">
+		</div>
+		<div class="pg04">
+		</div>
+		<div class="pg05">
+		</div>
+		<div class="pg06">
+		</div>
+		<div class="pg07">
+		</div>
+	</div>
+	<div class="End">
+		<div class="left">
+			<img src="TGHS.png" height="150px" width="250px">
+			<p>Sự hài lòng của quý khách là niềm hạnh phúc của chúng tôi!</p>
+		</div>
+		<div class="mid">
+			<h4>THÔNG TIN DOANH NGHIỆP</h4>
+			<ul style="list-style: square">
+				<li>CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU THẾ GIỚI HẢI SẢN</li>
+				<li>MST: 0106216785</li>
+			</ul>
+		</div>
+		<div class="right">
+			<h4>HỆ THỐNG TẠI HÀ NỘI:</h4>
+			<ul style="list-style: none">
+				<li>18 Trần Kim Xuyên, Cầu Giấy, HN</li>
+				<li class="hotl">Hotline: 090 461 06 26</li>
+				<li>75A Trần Hưng Đạo, Hoàn Kiếm, HN</li>
+				<li class="hotl">Hotline: 090 604 26 26</li>
+				<li>Tháp C Golden Palace, 99 Mễ Trì, HN</li>
+				<li class="hotl">Hotline: 090 448 26 26</li>
+				<li>60 Vũ Trọng Khánh, Hà Đông, HN</li>
+				<li class="hotl">Hotline: 093 196 26 26</li>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>

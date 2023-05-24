@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Giới Thiệu</title>
+    <link rel="stylesheet" href="StyleGioiThieu.css">
+</head>
+<body>
+    <header>
+		<a href="TrangChu.html" class="logo"><img src="TGHS.png" height="100px" width="200px"></a>
+		<ul class="menu1">
+			<li><a href="TrangChu.html">Trang chủ</a></li>
+			<li><a href="GioiThieu.html">Giới thiệu</a></li>
+			<li><a href="ThucDon.html">Thực đơn</a></li>
+			<li><a href="DatBan.html">Đặt bàn</a></li>
+			<li><a href="SanPham.html">Sản phẩm tươi sống</a></li>
+			<li>
+				<a href="">Tin tức &#9663;
+					<ul class="menu2">
+						<li><a href="VHAT.html">Văn hóa ẩm thực</a></li>
+						<li><a href="KhuyenMai.html">Khuyến mãi</a></li>
+					</ul>
+				</a>
+			</li>
+		</ul>
+	</header>
+	<div class="GT">Giới thiệu</div>
+	<div class="GT1">
+		<h2>Lịch sử hình thành</h2>
+		<p>Bằng tình yêu và tâm huyết với hải sản của các cổ đông, tháng<br>
+		11 năm 2013, Nhà hàng Siêu thị Thế Giới Hải Sản cơ sở 1 ra đời,<br>
+		tại địa điểm số 18 Dương Đình Nghệ, Cầu Giấy, Hà Nội. Sau<br>
+		chặng khởi đầu đầy gian nan và nhiều thách thức, đến tháng<br>
+		6/2014, CB CNV Thế Giới Hải Sản hân hoan chào đón cơ sở 2 tại<br>
+		75A Trần Hưng Đạo. Một năm sau, vào tháng 11 năm 2015, cơ<br>
+		sở 3 với quy mô lớn hơn, đầu tư mạnh hơn đã được khai trương<br>
+		tại tòa nhà Golden Palace, Mễ Trì, Nam Từ Liêm, Hà Nội.<br><br>
+		Kế thừa những thành công tại chuỗi nhà hàng hải sản và thấu<br>
+		hiểu thời gian thực khách bỏ ra còn giá trị hơn cả số tiền chi<br>
+		tiêu, hệ thống Nhà hàng Siêu thị Thế giới hải sản – “Con gì đang<br>
+		bơi chúng tôi đều có” tiếp tục mở rộng cơ sở trên khắp các<br>
+		quận thành với sự ra đời của cơ sở 8 tại 60 Vũ Trọng Khánh vào<br>
+		ngày 16/5. Mang hơi thở và tâm hồn của biển cùng sự biến tấu<br>
+		mới mẻ, Thế Giới Hải Sản 60 Vũ Trọng Khánh là chốn bình yên,<br>
+		an nhiên, tịnh tại cho những người yêu biển, yêu thủ đô và yêu<br>
+		thích những món ăn chế biến từ hải sản.
+		</p>
+		<img src="GT_img1.jpg" height="300px" width="450px">
+	</div>
+	<div class="GT2">
+		<img src="slide6.jpg" height="300px" width="450px">
+		<div class="pg">
+			<h2>Không gian nhà hàng</h2>
+			<p>Toàn bộ hệ thống Nhà hàng Siêu thị Thế Giới Hải Sản được thiết kế <br>
+			thống nhất theo chủ đề “Đưa đại dương xanh vào nhà” nên mang đậm hơi <br>
+			thở của biển. Với kiến trúc độc đáo, xanh mát, khách hàng bước vào nhà <br>
+			hàng hải sản sẽ có cảm giác thư thái, sảng khoái như được du ngoạn trên <br>
+			những bãi biển thực sự.<br>
+			– Cơ sở 18 Trần Kim Xuyến: 13 Phòng VIP và 1 khu vực chung, sức chứa gần 
+			186 khách<br>
+			– Cơ sở 75A Trần Hưng Đạo: 18 Phòng VIP và 1 khu vực chung, sức chứa 300 khách <br>
+			– Cơ sở 99 Mễ Trì, tòa nhà Golden Palace: 15 Phòng VIP, 2 phòng Royal, 2 sảnh <br>
+			chung với sức chứa lên tới 500 khách <br>
+			– Cơ sở 60 Vũ Trọng Khánh: 10 Phòng Vip, 1 tầng mang phong cách ẩm thực nhật
+			</p>
+		</div>
+	</div>
+	<div class="GT3">
+		<div class="pg">
+			<h2>Dịch vụ tiêu chuẩn 3T3K</h2>
+			<p>Với sứ mệnh mang lại cho thực khách khoảng thời gian thưởng thức ẩm thực <br>
+			đầy ý nghĩa với các giá trị thiết thực: Ngon miệng – Vui vẻ – Tự hào <br>
+			TGHS luôn phục vụ khách hàng theo nguyên tắc 3T3K:<br>
+			– Tươi cười<br>
+			– Trung thực<br>
+			– Tận tâm<br>
+			– Không nài ép khách<br>
+			– Không tranh cãi với khách<br>
+			– Không dối lừa khách
+			</p>
+		</div>
+		<img src="slide3.jpg" height="300px" width="450px">
+	</div>
+	<div class="GT4">
+		<img src="slide11.jpg" height="300px" width="450px">
+		<div class="pg">
+			<h2>Sản phẩm đa dạng chất lượng</h2>
+			<p>Tại hệ thống siêu thị, chúng tôi cung cấp hơn 100 loại con hàng tươi sống, chất <br>
+			lượng loại 1, được đưa về từ những vùng biển trải dài khắp đất nước và được thả sống <br>
+			trong các bể kính, dưới sự giám sát nghiêm túc của đội ngũ kỹ sư thủy sản. <br>
+			Tại hệ thống nhà hàng hải sản, chúng tôi phục vụ những món ăn ngon, được chế biến<br>
+			tinh tế, menu đa dạng, phong phú chắc chắn sẽ làm hài lòng thực khách.
+			</p>
+		</div>
+	</div>
+	<div class="GT5">
+		<div class="pg">
+			<h2>Đầu bếp của chúng tôi</h2>
+			<p>Là những nghệ sỹ thực thụ, những đầu bếp của Thế Giới Hải Sản coi mỗi món ăn<br>
+			là một tác phẩm nghệ thuật. Bởi vậy họ tâm huyết với từng món ăn và sáng tạo trong<br>
+			từng chi tiết. Với hơn 20 năm kinh nghiệm trong nghề, họ cho rằng hiểu đời, hiểu người,<br>
+			và hiểu nguyên liệu mình chế biến sẽ mang lại những món ăn chất lượng và cao cấp.<br><br>
+			Không chỉ đơn thuần là “thầy phù thủy” của những món ăn, các đầu bếp của Thế Giới<br>
+			Hải Sản còn có vai trò to lớn trong sứ mệnh tôn vinh ẩm thực Việt. Mỗi món ăn tại<br>
+			Thế Giới Hải Sản đều được các đầu bếp chăm chút kỹ lưỡng từ khâu chọn nguyên liệu,<br>
+			chế biến, trình bày, cách thưởng thức, thậm chí là câu chuyện văn hóa xung quanh món<br>
+			ăn để đem tới cho khách hàng những trải nghiệm ẩm thực tinh tế và hoàn hảo nhất.
+			</p>
+		</div>
+		<img src="slide2.jpg" height="300px" width="450px">
+	</div>			
+	<div class="End">
+		<div class="left">
+			<img src="TGHS.png" height="150px" width="250px">
+			<p>Sự hài lòng của quý khách là niềm hạnh phúc của chúng tôi!</p>
+		</div>
+		<div class="mid">
+			<h4>THÔNG TIN DOANH NGHIỆP</h4>
+			<ul style="list-style: square">
+				<li>CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU THẾ GIỚI HẢI SẢN</li>
+				<li>MST: 0106216785</li>
+			</ul>
+		</div>
+		<div class="right">
+			<h4>HỆ THỐNG TẠI HÀ NỘI:</h4>
+			<ul style="list-style: none">
+				<li>18 Trần Kim Xuyên, Cầu Giấy, HN</li>
+				<li class="hotl">Hotline: 090 461 06 26</li>
+				<li>75A Trần Hưng Đạo, Hoàn Kiếm, HN</li>
+				<li class="hotl">Hotline: 090 604 26 26</li>
+				<li>Tháp C Golden Palace, 99 Mễ Trì, HN</li>
+				<li class="hotl">Hotline: 090 448 26 26</li>
+				<li>60 Vũ Trọng Khánh, Hà Đông, HN</li>
+				<li class="hotl">Hotline: 093 196 26 26</li>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>

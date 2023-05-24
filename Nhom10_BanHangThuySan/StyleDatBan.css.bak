@@ -1,0 +1,194 @@
+header{
+    height: 100px;
+    width: 100%;
+    top: 0;
+	z-index: 2;
+    background-color: black;
+}
+.logo
+{
+	float: left;
+    margin-right: 100px;
+}
+.menu1
+{
+    padding-top: 40px;
+    list-style-type: none;
+    margin: 0;
+}
+.menu1 li
+{
+    font-size: 22px;
+    float: left;
+    width: 200px;
+    text-align: center;
+    padding-bottom: 20px;
+    position: relative;
+}
+.menu1 li a
+{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+	text-shadow: -1px 0 black, 0 2px black, 2px 0 black, 0 -1px black;
+}
+.menu1 li a:hover
+{
+    color: darkorange;
+}
+.menu1 li:hover ul
+{
+    display: block;
+    position: absolute;
+}
+.menu2
+{
+    padding-top: 20px;
+    left: 0;
+    padding-left: 0;
+    list-style-type: none;
+    display: none;
+    background-color: black;
+}
+.menu2 li
+{
+    float: none;
+}
+.menu2 li a:hover
+{
+    color: darkorange;
+}
+.End
+{
+	clear: both;
+	padding: 30px;
+	color: white;
+	background-color: black;
+	height: 250px;
+	margin-top: 100px;
+}
+.End .left
+{
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-left: 500px;
+	margin-right: 60px;
+}
+.End .left p
+{
+	font-size: 18px;
+}
+.End .mid
+{
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-right: 60px;
+}
+.End .mid li
+{
+	margin-top: 20px;
+	font-size: 18px;
+}
+.End .right
+{
+	width: 400px;
+	height: 200px;
+	float: left;
+}
+.End .right li
+{
+	font-size: 18px;
+}
+.End .right .hotl:hover
+{
+	color: red;
+}
+.WelDB
+{
+	font-size: 50px;
+	clear: both;
+	color: dodgerblue;
+	border-bottom: 1px solid dodgerblue;
+	width: 750px;
+	font-weight: bold;
+	padding: 10px;
+	margin-left: 550px;
+	margin-bottom: 30px;
+}
+.DB
+{
+	padding: 30px;
+}
+.pg01
+{
+	text-align: center;
+	font-size: 20px;
+	color: gray;
+}
+.pg01 #NH
+{
+	height: 40px;
+	font-size: 16px;
+}
+.row
+{
+	clear: both;
+	padding: 30px;
+}
+.pg02
+{
+	font-size: 20px;
+	color: gray;
+	margin-left: 350px;
+	float: left;
+	margin-right: 80px;
+	text-align: center;
+}
+.pg03
+{
+	font-size: 20px;
+	color: gray;
+	margin-left: 400px;
+	float: left;
+	margin-right: 80px;
+	text-align: center;
+}
+.pg04
+{
+	font-size: 20px;
+	color: gray;
+	margin-left: 400px;
+	float: left;
+	margin-right: 80px;
+	text-align: center;
+}
+.pg05
+{
+	font-size: 20px;
+	color: gray;
+	margin-left: 400px;
+	float: left;
+	margin-left: 350px;
+	margin-right: 80px;
+	text-align: center;
+}
+.pg06
+{
+	font-size: 20px;
+	color: gray;
+	margin-left: 400px;
+	float: left;
+	margin-right: 80px;
+	text-align: center;
+}
+.pg07
+{
+	font-size: 20px;
+	color: gray;
+	margin-left: 400px;
+	float: left;
+	text-align: center;
+}

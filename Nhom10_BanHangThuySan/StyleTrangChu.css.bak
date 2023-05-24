@@ -1,0 +1,335 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+header{
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+	z-index: 2;
+}
+.logo
+{
+	float: left;
+    margin-right: 100px;
+}
+.menu1
+{
+    padding-top: 40px;
+    list-style-type: none;
+    margin: 0;
+}
+.menu1 li
+{
+    font-size: 22px;
+    float: left;
+    width: 200px;
+    text-align: center;
+    padding-bottom: 20px;
+    position: relative;
+}
+.menu1 li a
+{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+	text-shadow: -1px 0 black, 0 2px black, 2px 0 black, 0 -1px black;
+}
+.menu1 li a:hover
+{
+    color: darkorange;
+}
+.menu1 li:hover ul
+{
+    display: block;
+    position: absolute;
+}
+.menu2
+{
+    padding-top: 20px;
+    left: 0;
+    padding-left: 0;
+    list-style-type: none;
+    display: none;
+}
+.menu2 li
+{
+    float: none;
+}
+.menu2 li a:hover
+{
+    color: darkorange;
+}
+.slider
+{
+	position: relative;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.myslide
+{
+	height: 937px;
+	display: none;
+	overflow: hidden;
+}
+
+.prev, .next
+{
+	position: absolute;
+	top: 50%;
+	transform: translate(0, -50%);
+	font-size: 50px;
+	padding: 15px;
+	cursor: pointer;
+	color: #fff;
+	transition: 0.1s;
+	user-select: none;
+}
+.prev:hover, .next:hover
+{
+	color: #00a7ff;
+}
+.next
+{
+	right: 0;
+}
+.dotsbox
+{
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%);
+	bottom: 10px;
+	cursor: pointer;
+}
+.dot
+{
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	border: 3px solid #fff;
+	border-radius: 50%;
+	margin: 0 10px;
+	cursor: pointer;
+}
+
+.active, .dot:hover
+{
+	border-color: #00a7ff;
+}
+
+.fade 
+{
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade 
+{
+  from {opacity: 0.8}
+  to {opacity: 1}
+}
+
+@keyframes fade 
+{
+  from {opacity: 0.8}
+  to {opacity: 1}
+}
+
+.txt{
+	position: absolute;
+	color: #fff;
+	top: 45%;
+	margin-left: 20%;
+}
+
+.txt h1{
+	color: #00a7ff;
+	font-size: 50px;
+	margin-bottom: 20px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 1px black;
+}
+.txt p
+{
+	font-weight: bold;
+	font-size: 25px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 1px black;
+}
+.welcome
+{
+	font-size: 50px;
+	clear: both;
+	color: dodgerblue;
+	border-bottom: 1px solid dodgerblue;
+	width: 800px;
+	font-weight: bold;
+	padding: 10px;
+	margin-left: 550px;
+	margin-bottom: 30px;
+}
+.slidesWel
+{
+	padding: 30px;
+	clear: both;
+	padding-left: 100px;
+}
+.slideWel
+{
+	float: left;
+	text-align: center;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+.slideWel h3
+{
+	color: dodgerblue;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-style: italic;
+}
+.slideWel p
+{
+	font-size: 25px;
+}
+.slideWel img:hover
+{
+	transform: scale(1.1,1.1);
+}
+.Xem
+{
+	background-color: dodgerblue;
+	clear: both;
+	margin-left: 900px;
+	width: 160px;
+	height: 63px;
+	padding: 20px;
+}
+.Xem a
+{
+	text-decoration: none;
+	border: 1px solid deepskyblue;
+	padding: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+	color: white;
+}
+.Xem:hover
+{
+	background-color: darkblue;
+}
+.Xem a:hover
+{
+	border: 1px solid dodgerblue;
+}
+.welcomeTD
+{
+	font-size: 50px;
+	clear: both;
+	color: dodgerblue;
+	border-bottom: 1px solid dodgerblue;
+	width: 270px;
+	font-weight: bold;
+	padding: 10px;
+	margin-left: 440px;
+	margin-bottom: 30px;
+}
+.slidesTD
+{
+	margin-top: 50px;
+	margin-left: 350px;
+	padding: 50px 50px 0 55px;
+	text-align: center;
+	clear: both;
+}
+.slideTD
+{
+	float: left;
+	margin-right: 50px;
+	margin-bottom: 30px;
+}
+.slideTD h2
+{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-style: italic;
+	font-weight: bold;
+}
+.slideTD p
+{
+	font-size: 20px;
+}
+.slideTD img:hover
+{
+	transform: scale(1.1,1.1);
+}
+.End
+{
+	clear: both;
+	padding: 30px;
+	color: white;
+	background-color: black;
+	height: 300px;
+	margin-top: 100px;
+}
+.End .left
+{
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-left: 500px;
+	margin-right: 60px;
+}
+.End .left p
+{
+	font-size: 18px;
+}
+.End .mid
+{
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-right: 60px;
+}
+.End .mid li
+{
+	margin-top: 20px;
+	font-size: 18px;
+}
+.End .right
+{
+	width: 400px;
+	height: 200px;
+	float: left;
+}
+.End .right p
+{
+	font-size: 18px;
+}
+.End .right .hotl:hover
+{
+	color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
